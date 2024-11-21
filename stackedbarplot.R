@@ -2,7 +2,7 @@
 library(ggplot2)
 
 # Load the data
-data <- read.csv("path_to_file/adult_income1.csv")
+data <- read.csv("adult income1.csv")
 
 # Filter relevant columns
 filtered_data <- data[, c("education", "income")]
