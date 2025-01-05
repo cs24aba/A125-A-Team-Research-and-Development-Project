@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+*.DS_Store
+.Rproj.user
+*.Rproj
+.RData
+.Rhistory
+>>>>>>> refs/remotes/origin/main
