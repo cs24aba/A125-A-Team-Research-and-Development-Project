@@ -43,11 +43,7 @@ Below is a preview of the first five rows of the dataset:
 ### Stacked Bar Plot:
 Below is a stacked bar plot showing the proportions of income (`<=50K` and `>50K`) across different levels of education:
 
-<<<<<<< HEAD
-![Visualization](stacked_barplot.png)
-=======
 ![Visualization](Rplot.png)
->>>>>>> refs/remotes/origin/main
 
 Chi-squared method is used for analysing this data. Hence our Research Question is is about differences in proportions ,we will use chi-square test to check for the likelihood that there is a relationship between income and number of years of education.
 
