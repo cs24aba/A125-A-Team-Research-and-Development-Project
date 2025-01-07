@@ -1,0 +1,294 @@
+commit 3c0ff30717d6c6b1e5141ae92b51c34d3e329fc9
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Tue Jan 7 14:26:16 2025 +0000
+
+    Edits in evaluation and final revision
+
+commit 0223600559a76670e0a275d80e4092124a2815ea
+Author: js23agd <js23agd@herts.ac.uk>
+Date:   Tue Jan 7 13:03:58 2025 +0000
+
+    Evaluation word count reduced
+
+commit 884be89ab1ec66b5bb4108f5b94c8b90057bbc80
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Mon Jan 6 17:32:53 2025 +0000
+
+    adding table of contents and formatting the final report doc
+
+commit 58e4e5f392274d7834a265f3c6a57fdf4ae2e2e1
+Merge: e85ac48 a569266
+Author: pp24abe <pp24abe@herts.ac.uk>
+Date:   Mon Jan 6 22:33:33 2025 +0530
+
+    Merge branch 'main' of https://github.com/cs24aba/A125-Team-Research-and-Development-Project
+
+commit e85ac4891b4273fe1e4bafe7b223e841df41ec9a
+Author: pp24abe <pp24abe@herts.ac.uk>
+Date:   Mon Jan 6 22:33:17 2025 +0530
+
+    compiling the final report document
+
+commit a5692660d4785cc30756e1bc6e751b7e57ad2b91
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Mon Jan 6 16:09:29 2025 +0000
+
+    fixes and rewrites in conclusion
+
+commit 56a6e9ef25d5d3b455e4ecf080441a56b60966ff
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Mon Jan 6 15:58:43 2025 +0000
+
+    added analysis section
+
+commit 887869a8eda4f0c8d8f22d8801751a64ca5bfdc8
+Merge: afcd4e8 12d0696
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Mon Jan 6 15:42:59 2025 +0000
+
+    Merge branch 'main' of https://github.com/cs24aba/A125-Team-Research-and-Development-Project
+
+commit afcd4e8ae4e322f9e3aef322e5f762788d264946
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Mon Jan 6 15:42:41 2025 +0000
+
+    fixed barplot image in readme
+
+commit 12d06960f6c5b85bda6a44ac20e9d0ab95be6073
+Author: pp24abe <pp24abe@herts.ac.uk>
+Date:   Mon Jan 6 21:08:45 2025 +0530
+
+    final report file added
+
+commit 7af4340301acd694af4b0a83871747d7d9d1ffe3
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Mon Jan 6 15:36:09 2025 +0000
+
+    slight changes  in the report
+
+commit 7161c53773acf78195643a427fce13c5a35e18b2
+Merge: 9f2c821 74f1697
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Mon Jan 6 15:34:29 2025 +0000
+
+    Merge branch 'main' of https://github.com/cs24aba/A125-Team-Research-and-Development-Project
+
+commit 74f1697995020fde2ee8988425ec0340bb50120d
+Author: pp24abe <pp24abe@herts.ac.uk>
+Date:   Mon Jan 6 21:00:56 2025 +0530
+
+    background research updated
+
+commit 9f2c82104c763b5263c43bc5e588bfe840177653
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Mon Jan 6 15:30:08 2025 +0000
+
+    making edits on evaluation
+
+commit c034838127b51a002bcec592d1ca17f568996a68
+Merge: 645e5a0 d5095c6
+Author: mn23adn <mn23adn@herts.ac.uk>
+Date:   Sun Jan 5 19:17:41 2025 +0000
+
+    uploaded background research and RQ interest section for final report
+
+commit d5095c6f6da80bb748cf9d3dfae083aa5b9e75fc
+Author: SIDHIQ ALI <sidhiqsidhiqali@gmail.com>
+Date:   Sun Jan 5 16:50:06 2025 +0000
+
+    Add files via upload
+    
+    Adding the conclusion for the report
+
+commit 1d827352cbb0914742779ad78bdf635dfdda243e
+Author: js23agd <js23agd@herts.ac.uk>
+Date:   Sun Jan 5 16:27:11 2025 +0000
+
+    Evaluation section added
+
+commit f46be2409424416cb973e1e83025015ef1ed97f2
+Author: pp24abe <pp24abe@herts.ac.uk>
+Date:   Fri Jan 3 18:48:33 2025 +0530
+
+    introduction added to the report
+
+commit a18bd5210727e7d0bd7b734b92191b4ea24ccadf
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Thu Jan 2 16:23:46 2025 +0000
+
+    Added section 3 (visualization) of the report
+
+commit 26f1088896e5432796504d127c9100382f673492
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Tue Dec 24 13:50:12 2024 +0000
+
+    fixing git tracking issue
+
+commit 62037baa9f8eb1a4f935834ae8a9ac75924ccbe1
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Tue Dec 24 13:40:27 2024 +0000
+
+    added a  list of literature resource relevant to the rq
+
+commit 2f410f67c3faec4303ab0f0cc29400648af62550
+Author: cs24aba <cs24aba@herts.ac.uk>
+Date:   Tue Dec 24 13:15:24 2024 +0000
+
+    reverting the R script and plot back to the previous one without percentage labels
+
+commit e24b7770a816ee91772c84ea69553785b37a5968
+Merge: 1ba495e ec16241
+Author: pp24abe <pp24abe@herts.ac.uk>
+Date:   Fri Dec 13 19:06:23 2024 +0530
+
+    Merge branch 'main' of https://github.com/cs24aba/A125-Team-Research-and-Development-Project
+
+commit 1ba495e6db26a315d692343ba5f6ddb5c7ea1ac8
+Author: pp24abe <pp24abe@herts.ac.uk>
+Date:   Fri Dec 13 19:05:53 2024 +0530
+
+    report document added
+
+commit ec162419f261ef78f7739a166db104e5868b4f02
+Merge: 5e992dd df12c6f
+Author: SIDHIQ ALI <zs24act@herts.ac.uk>
+Date:   Sat Dec 7 16:04:25 2024 +0000
+
+    Merge pull request #2 from cs24aba/zs24act
+    
+    updated the stacked bar plot with the labeled image
+
+commit df12c6f15a014859248d9649dd6a6712ac85b31d
+Author: zs24act <zs24act@herts.ac.uk>
+Date:   Sat Dec 7 16:03:29 2024 +0000
+
+    updated the stacked bar plot with the labeled image
+
+commit 5e992ddb6210f225b124f552a53a0a7a6bd4e02e
+Merge: 5f53747 7534aae
+Author: SIDHIQ ALI <zs24act@herts.ac.uk>
+Date:   Sat Dec 7 15:58:13 2024 +0000
+
+    Merge pull request #1 from cs24aba/zs24act
+    
+    Added percentage labels to stack bar plot to improve the readability
+
+commit 7534aaeecf21e2f018e41b59bdd22aa6323d82bb
+Author: zs24act <zs24act@herts.ac.uk>
+Date:   Sat Dec 7 15:56:52 2024 +0000
+
+    Added percentage labels to stack bar plot to improve the readability
+
+commit 645e5a03d83f01c7db14abbef752332539da4b3d
+Author: mn23adn <mn23adn@herts.ac.uk>
+Date:   Mon Dec 2 15:42:13 2024 +0000
+
+    updated readme file with visualization method used in the analysis.
+
+commit 5f53747638acecb43ffdd35ac1999c94437d5955
+Author: mn23adn <mn23adn@herts.ac.uk>
+Date:   Mon Dec 2 15:42:13 2024 +0000
+
+    updated readme file with visualization method used in the analysis.
+
+commit 5383d21fac9639792c2b4cef905d38df0cd1ab4d
+Author: mn23adn <mn23adn@herts.ac.uk>
+Date:   Mon Dec 2 15:30:01 2024 +0000
+
+    added visualization presentation
+
+commit d0148061b46d1533992ade411267259ff6ecc4fb
+Author: mn23adn <mn23adn@herts.ac.uk>
+Date:   Mon Dec 2 15:30:01 2024 +0000
+
+    added visualization presentation
+
+commit 55afc6e27e14d056b53005a06ee90e99297a11c2
+Author: pp24abe <pp24abe@herts.ac.uk>
+Date:   Wed Nov 27 20:57:46 2024 +0530
+
+    old rq folder updated
+
+commit 06276f75bac7e94c908b3ce9c871683354886d93
+Author: pp24abe <pp24abe@herts.ac.uk>
+Date:   Wed Nov 27 20:57:46 2024 +0530
+
+    old rq folder updated
+
+commit 4584941af99fd04a426e8df35e4fe0bcae0ae486
+Author: rayan <ppp.csb1923@saintgits.org>
+Date:   Wed Nov 27 20:39:19 2024 +0530
+
+    added old rq and diagrams in oldrq folder
+
+commit ad9c9fe3a75006a2b5d56eb1528e5c683ecce35c
+Author: rayan <ppp.csb1923@saintgits.org>
+Date:   Wed Nov 27 20:39:19 2024 +0530
+
+    added old rq and diagrams in oldrq folder
+
+commit 4b42d798f7cae3c095e057f270ba722b39e7574c
+Author: christima <cs24aba@herts.ac.uk>
+Date:   Thu Nov 21 20:25:52 2024 +0000
+
+    added images and updated readme with detailed project info
+
+commit 22e201e71e307f065a1447a3b555dd374f99dfa9
+Author: christima <cs24aba@herts.ac.uk>
+Date:   Thu Nov 21 20:25:52 2024 +0000
+
+    added images and updated readme with detailed project info
+
+commit 678c6959340ad869c27494e737b061fe4924d6bf
+Author: christima <cs24aba@herts.ac.uk>
+Date:   Thu Nov 21 19:05:27 2024 +0000
+
+    added .DS_store to gitignore
+
+commit e77fd1d4c6e765755f2f2e3fb39156cdea03f251
+Author: christima <cs24aba@herts.ac.uk>
+Date:   Thu Nov 21 19:05:27 2024 +0000
+
+    added .DS_store to gitignore
+
+commit ca0a7ed88a21c559507f543b9b1650ffacf150bc
+Author: christima <cs24aba@herts.ac.uk>
+Date:   Thu Nov 21 18:57:02 2024 +0000
+
+    stacked bar plot to visualize the proportions of income across different education levels
+
+commit 9311ee90b2b0a28f32167dab1ae5289e5f186655
+Author: christima <cs24aba@herts.ac.uk>
+Date:   Thu Nov 21 18:57:02 2024 +0000
+
+    stacked bar plot to visualize the proportions of income across different education levels
+
+commit 2d755da641943b806b56d57e2eacd44e92dec54b
+Author: christima <cs24aba@herts.ac.uk>
+Date:   Thu Nov 21 17:55:42 2024 +0000
+
+    added finalized research question presentation
+
+commit 83e4794825abb8b881b2a48966ca91561e187307
+Author: christima <cs24aba@herts.ac.uk>
+Date:   Thu Nov 21 17:55:42 2024 +0000
+
+    added finalized research question presentation
+
+commit 72dcf59ae70eab9356c84d876ccc853c948a3b48
+Author: js23agd <js23agd@herts.ac.uk>
+Date:   Tue Nov 5 04:07:15 2024 +0000
+
+    RQ presentation slides
+
+commit fa544ac339f664da7016d5d3c84e137e061c28c9
+Author: js23agd <js23agd@herts.ac.uk>
+Date:   Tue Nov 5 04:07:15 2024 +0000
+
+    RQ presentation slides
+
+commit f09c5a0c7c3e857370b6dde9ba344a029a9f2645
+Author: christima <cs24aba@herts.ac.uk>
+Date:   Sat Oct 26 23:00:22 2024 +0100
+
+    adding  allocated dataset
